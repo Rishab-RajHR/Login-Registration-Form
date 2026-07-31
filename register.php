@@ -32,6 +32,8 @@
              <div class="form-group">
                 <input type="password" placeholder="Confirm Your Password" class="form-control">
              </div>
+             <button class="btn font-weight-bold" name="submit">Register Now</button>
+             <p>Already have an Account? <a href="login.php">Login Now</a></p>
          </form>
     </div>
    
