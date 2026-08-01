@@ -27,3 +27,25 @@
    padding: 2rem;
    width: 28rem;
 }
+
+.form form h2 {
+     margin-bottom: 1.5rem;
+}
+
+.form form input {
+     padding: 10px 15px;
+     font-size: 15px;
+}
+
+.form form button {
+    width: 100%;
+    margin-top: 10px;
+    background-color: #783595;
+    color: white;
+    font-size: 18px;
+}
+
+.form form p {
+    font-size: 15px;
+    margin-top: 8px;
+}

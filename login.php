@@ -12,7 +12,7 @@
 
     <div class="form">
          <form action="" method="post">
-             <h2>Regitration</h2>
+             <h2>Login</h2>
              <p class="msg"></p>
   
              <div class="form-group">
