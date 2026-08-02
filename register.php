@@ -34,7 +34,7 @@ if(isset($_POST['submit'])){
          <form action="" method="post">
              <h2>Registration</h2>
              <p class="msg"><?= $msg ?></p>
-             <div class="form-group">
+             <div class="form-group">q  apache_request_headers`qqaqq    h8ymn iwow[er4w]
                  <input type="text" name="name" placeholder="Enter Your Name" class="form-control" required>
              </div>
              <div class="form-group">
@@ -50,7 +50,7 @@ if(isset($_POST['submit'])){
                 <input type="password" name="password" placeholder="Enter Your Passowrd" class="form-control">
              </div>
              <div class="form-group">
-                <input type="password" name="cpassword" placeholder="Confirm Your Password" class="form-control">
+                <input type="password" name="cpassword" placeholder="Confirm Password" class="form-control">
              </div>
              <button class="btn font-weight-bold" name="submit">Register Now</button>
              <p>Already have an Account? <a href="login.php">Login Now</a></p>
