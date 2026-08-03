@@ -18,7 +18,10 @@ if(isset($_POST['submit'])) {
        elseif($row1['user_type'] == 'admin'){
           $_SESSION['admin'] = $row1['email'];
           $_SESSION['id'] = $row1['id'];
-          header('Location:user.php');
+          header('Location:admin.php');
+       }
+       else{
+          $msg = "Incorrect email and password!";
        }
     }
 }
