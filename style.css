@@ -49,3 +49,29 @@
     font-size: 15px;
     margin-top: 8px;
 }
+
+body {
+    background-color: #e2d7f7;
+}
+
+.user-page {
+   text-align: center;
+   margin-top: 15rem;
+   backgroun-color: white;
+   padding: 1rem;
+}
+
+.user-page p{
+   font-size: 18px;
+   margin-top: 2rem;
+}
+
+.user-page button {
+    margin-top: 15px;
+    color: white;
+    background-color: #783595;
+    padding: 10px 25px;
+    border: none;
+    font-size: 15px;
+    border-radius: 5px;
+}
